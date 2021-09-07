@@ -10,4 +10,4 @@ ___
 ### masks.py: Creates a copy of each image in CelebA such that a segment of interest (defined by landmarks) is show in pixel values of white (255) and the rest of the image is black (0).
 ___
 ## Data
-The pre-generated data and CelebA can be found here:
+The pre-generated data and CelebA can be found here: https://nevada.box.com/s/efvh8evc8ix1gmkpm9bgio2voxr3unhr
